@@ -15,6 +15,7 @@
           {% endcapture %}
         <img src="{{ avatar_url | strip }}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
       {% endif %}
+	  >> {{ site.avatar | relative_url }}
     </a>
 
     <h1 class="site-title">

@@ -10,23 +10,28 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+#lang: en
+lang: ko
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+#timezone:
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+#title: Chirpy # the main title
+title: StoryDB # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+#tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: hhope77's stories # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+#url: ""
+url: "https://hhope77.github.io"
 
 github:
   username: github_username # change to your github username
@@ -37,7 +42,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  #name: your_full_name
+  name: hhope77
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -66,7 +72,8 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+#theme_mode: # [light|dark]
+theme_mode: light [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -76,7 +83,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/hhope77_avatar.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true

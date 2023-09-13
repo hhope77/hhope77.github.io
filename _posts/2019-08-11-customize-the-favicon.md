@@ -1,5 +1,6 @@
 ---
 title: Customize the Favicon
+author: hhope77
 date: 2019-08-11 00:34:00 +0800
 categories: [Blogging, Tutorial]
 tags: [favicon]

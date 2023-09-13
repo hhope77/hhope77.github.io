@@ -11,7 +11,7 @@ baseurl: ""
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 #lang: en
-lang: ko
+lang: ko-KR
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 #timezone:
@@ -42,10 +42,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  #name: your_full_name
+  name: hhope77
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://blog.naver.com/hhope77 # change to your copyright owner's linke
     - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
@@ -56,12 +58,6 @@ google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
-
-# added by hhope77
-## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
-author: 
-  name: hhope77
-  url: https://github.com/hhope77/
 
 google_analytics:
   id: # fill in your Google Analytics ID
@@ -78,7 +74,7 @@ google_analytics:
 #     dark   - Use the dark color scheme
 #
 #theme_mode: # [light|dark]
-theme_mode: light [light|dark]
+theme_mode: light
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -88,7 +84,7 @@ theme_mode: light [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/hhope77_avatar.jpg"
+avatar: "/assets/commons/hhope77_avatar.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true

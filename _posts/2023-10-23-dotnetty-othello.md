@@ -1,11 +1,9 @@
 ---
-title: Getting Started
-author: hhope77
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+title: Othello Game With DotNetty
+date: 2023-10-23 02:00:00 +0800
+categories: [Blogging, DotNetty]
+tags: [game,dotnetty,c#,tcp]
 pin: true
-img_path: '/assets/img/posts/20180809'
 ---
 
 abc

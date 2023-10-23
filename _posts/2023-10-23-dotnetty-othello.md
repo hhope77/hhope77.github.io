@@ -3,6 +3,7 @@ title: Othello Game With DotNetty
 date: 2023-10-23 02:00:00 +0900
 categories: [Blogging, DotNetty]
 tags: [game,dotnetty,c#,tcp]
+img_path: '/assets/img/posts/20231023'
 pin: true
 ---
 
@@ -142,47 +143,7 @@ DotNetty를 이용한 Othello 게임서버 및 윈폼 클라이언트 개발
 ## 게임화면
 
 ### 게임실행 및 로그인
-![클라이언트 실행](/assets/img/posts/20231023/20231023-01.png){: width="817" height="553" }
+![클라이언트 실행](20231023-01.png){: width="817" height="553" }
 _Login_
 
 
-### 로비
-![로비](/assets/img/posts/20231023/20231023-02.png){: width="817" height="553" }
-_Lobby_
-
-
-### 싱글게임
-![싱글플레이](/assets/img/posts/20231023/20231023-03.png){: width="817" height="553" }
-_Single Play Enter_
-
-![싱글플레이 승리](/assets/img/posts/20231023/20231023-04.png){: width="817" height="553" }
-_Single Play Result_
-
-![싱글플레이 재도전](/assets/img/posts/20231023/20231023-05.png){: width="817" height="553" }
-_Single Play Reset_
-
-
-### 대전게임
-![대전플레이](/assets/img/posts/20231023/20231023-06.png){: width="817" height="553" }
-_Battle Play Enter_
-
-![대기방만들기](/assets/img/posts/20231023/20231023-07.png){: width="817" height="553" }
-_Create Battle Room_
-
-![상대방대기](/assets/img/posts/20231023/20231023-08.png){: width="1641" height="555" }
-_Waitting Battle Player_
-
-![대기방입장](/assets/img/posts/20231023/20231023-09.png){: width="817" height="553" }
-_Join Battle Room_
-
-![대전시작](/assets/img/posts/20231023/20231023-10.png){: width="1642" height="550" }
-_Join Battle Room_
-
-![대전결과](/assets/img/posts/20231023/20231023-11.png){: width="1642" height="555" }
-_Battle Play Result_
-
-
-
-## 게임소스
-
-<a href="/assets/img/posts/20231023/DotNettyOthelloPubSub.zip">소스 다운로드</a>

@@ -147,3 +147,42 @@ _Login_
 
 
 ### 로비
+![로비](20231023-02.PNG){: width="817" height="553" }
+_Lobby_
+
+
+### 싱글게임
+![싱글플레이](20231023-03.PNG){: width="817" height="553" }
+_Single Play Enter_
+
+![싱글플레이 승리](20231023-04.PNG){: width="817" height="553" }
+_Single Play Result_
+
+![싱글플레이 재도전](20231023-05.PNG){: width="817" height="553" }
+_Single Play Reset_
+
+
+### 대전게임
+![대전플레이](20231023-06.PNG){: width="817" height="553" }
+_Battle Play Enter_
+
+![대기방만들기](20231023-07.PNG){: width="817" height="553" }
+_Create Battle Room_
+
+![상대방대기](20231023-08.PNG){: width="1641" height="555" }
+_Waitting Battle Player_
+
+![대기방입장](20231023-09.PNG){: width="817" height="553" }
+_Join Battle Room_
+
+![대전시작](20231023-10.PNG){: width="1642" height="550" }
+_Join Battle Room_
+
+![대전결과](20231023-11.PNG){: width="1642" height="555" }
+_Battle Play Result_
+
+
+
+## 게임소스
+
+<a href="/assets/img/posts/20231023/DotNettyOthelloPubSub.zip">소스 다운로드</a>
